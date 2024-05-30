@@ -1,12 +1,9 @@
-# - 👋 Bonjour je suis Baptiste Decagny.
+# - 👋 Hello, I am Baptiste Decagny.
 
-J'ai actuellement appris à développer en Js, PHP, HTML, CSS et j'apprend actuelle le C++
+I have currently learned to develop in Js, PHP, HTML, CSS and I am currently learning C++
 
-Vous retrouverez ici :
-- des templates web (soon);
-- un bot discord(soon) ;
+You will find here:
+- web templates (soon);
+- a discord bot (soon);
 
-<!---
-baptistedecgny/baptistedecgny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
