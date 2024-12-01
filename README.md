@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Baptiste Decagny</h1>
 <h3 align="center">Fontend development</h3>
 
-- 🔭 I’m currently working on [Web templace](SOON)
+- 🌱 I’m currently learning **Rust lang and ethical hacking**
 
-- 🌱 I’m currently learning **C++ and ethical hacking**
-
-- 👨‍💻 All of my projects are available at [https://baptium.fr](https://baptium.fr)
-
-- 💬 Ask me about **react.js,JS,HML,CSS and node.js**
+- 💬 Ask me about **JS,HML,CSS and node.js**
 
 - 📫 How to reach me **bapt.decagny@gmail.com**
 
